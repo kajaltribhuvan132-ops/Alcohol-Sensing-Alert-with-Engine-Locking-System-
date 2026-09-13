@@ -1,0 +1,2 @@
+# Alcohol-Sensing-Alert-with-Engine-Locking-System-
+Alcohol Sensing Alert with Engine Locking System is a safety-based project designed to prevent drunk driving. The system detects the presence of alcohol in the driver's breath using an alcohol sensor. If the detected alcohol level exceeds the predefined limit, the system activates an alert and prevents the vehicle engine from starting or running.
